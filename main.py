@@ -122,7 +122,6 @@ def init_window():
     maFenetre = Tk()
     maFenetre.geometry("600x440")
     maFenetre.title("WhatsApp bot")
-    maFenetre.iconbitmap("icon.ico")
 
 
     connect_button = Button(maFenetre, text="Se connecter à WhatsApp", command=ouvrir_whatsapp)
