@@ -1,0 +1,36 @@
+2025/05/18-14:21:36.918 57d0 Reusing MANIFEST C:\Users\chaca\Documents\Projets code\Whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/18-14:21:36.919 57d0 Recovering log #948
+2025/05/18-14:21:36.956 57d0 Reusing old log C:\Users\chaca\Documents\Projets code\Whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000948.log 
+2025/05/18-14:21:38.271 1fcc Level-0 table #963: started
+2025/05/18-14:21:38.276 1fcc Level-0 table #963: 224226 bytes OK
+2025/05/18-14:21:38.277 1fcc Delete type=0 #948
+2025/05/18-14:21:38.277 1fcc Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at '\x00I\x00\x00\x05' @ 2676661 : 1
+2025/05/18-14:21:38.277 1fcc Compacting 1@0 + 1@1 files
+2025/05/18-14:21:38.286 1fcc Generated table #964@0: 4885 keys, 102492 bytes
+2025/05/18-14:21:38.297 1fcc Generated table #965@0: 9894 keys, 214514 bytes
+2025/05/18-14:21:38.297 1fcc Compacted 1@0 + 1@1 files => 317006 bytes
+2025/05/18-14:21:38.297 1fcc compacted to: files[ 0 2 20 0 0 0 0 ]
+2025/05/18-14:21:38.298 1fcc Delete type=2 #963
+2025/05/18-14:21:38.298 1fcc Manual compaction at level-0 from '\x00I\x00\x00\x05' @ 2676661 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/18-14:21:39.545 f74 Compacting 1@1 + 8@2 files
+2025/05/18-14:21:39.591 f74 Generated table #966@1: 40321 keys, 2196259 bytes
+2025/05/18-14:21:39.620 f74 Generated table #967@1: 4583 keys, 2153771 bytes
+2025/05/18-14:21:39.644 f74 Generated table #968@1: 3598 keys, 2151599 bytes
+2025/05/18-14:21:39.669 f74 Generated table #969@1: 3798 keys, 2162154 bytes
+2025/05/18-14:21:39.693 f74 Generated table #970@1: 3873 keys, 2161064 bytes
+2025/05/18-14:21:39.732 f74 Generated table #971@1: 23904 keys, 2186355 bytes
+2025/05/18-14:21:39.785 f74 Generated table #972@1: 32003 keys, 2250685 bytes
+2025/05/18-14:21:39.840 f74 Generated table #973@1: 33111 keys, 2248242 bytes
+2025/05/18-14:21:39.843 f74 Generated table #974@1: 249 keys, 18473 bytes
+2025/05/18-14:21:39.843 f74 Compacted 1@1 + 8@2 files => 17528602 bytes
+2025/05/18-14:21:39.843 f74 compacted to: files[ 0 1 21 0 0 0 0 ]
+2025/05/18-14:21:39.844 f74 Delete type=2 #951
+2025/05/18-14:21:39.844 f74 Delete type=2 #952
+2025/05/18-14:21:39.844 f74 Delete type=2 #953
+2025/05/18-14:21:39.844 f74 Delete type=2 #954
+2025/05/18-14:21:39.844 f74 Delete type=2 #955
+2025/05/18-14:21:39.844 f74 Delete type=2 #956
+2025/05/18-14:21:39.844 f74 Delete type=2 #957
+2025/05/18-14:21:39.844 f74 Delete type=2 #958
+2025/05/18-14:21:39.844 f74 Delete type=2 #959
+2025/05/18-14:21:39.844 f74 Delete type=2 #964
