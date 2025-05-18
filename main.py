@@ -28,6 +28,7 @@ def ouvrir_whatsapp():
 
     chrome_options = Options()
     chrome_options.add_argument("user-data-dir=C:\\Users\\chaca\\AppData\\Local\\Google\\Chrome\\SeleniumProfile")
+    #chrome_options.add_argument("user-data-dir=~/Library/Application Support/Google/Chrome/SeleniumProfile")
     driver = webdriver.Chrome(options=chrome_options)
     wait = WebDriverWait(driver, 30)
 
